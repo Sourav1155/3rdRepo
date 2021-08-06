@@ -1,4 +1,4 @@
--------> Filters <--------
+-------> Filters <--------1234
  Web API includes filters to add extra logic before or after action method executes. Filters can be used to provide
  cross-cutting features such as logging, exception handling, performance measurement, authentication and authorization.
 -------> JWT (JSON Web Token) <-----------
